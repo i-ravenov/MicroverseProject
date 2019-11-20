@@ -3,10 +3,10 @@ body {
 	margin: 0;
 }
 #welcome-section {
-	height: 400px;
+	height: 100vh;
 	background-color: #0a0a23;
 	color: #fff;
-	margin-top: 10px;
+	margin-top: 50px;
 }
 #welcome-section h1 {
 	padding-top: 15px;
